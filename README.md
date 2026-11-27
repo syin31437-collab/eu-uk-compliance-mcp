@@ -1,12 +1,14 @@
 # EU & UK Regulatory Compliance MCP Server (`eu-uk-compliance-mcp`)
 
+[![syin31437-collab/eu-uk-compliance-mcp MCP server](https://glama.ai/mcp/servers/syin31437-collab/eu-uk-compliance-mcp/badges/score.svg)](https://glama.ai/mcp/servers/syin31437-collab/eu-uk-compliance-mcp)
+
 An open-source **Model Context Protocol (MCP)** server giving AI agents, compliance teams, and workflow tools live, deterministic access to official **UK MHRA** and **European Commission (DG SANTE FIP & DG GROW CosIng)** regulatory databases.
 
 Powered by production Apify Actors:
 - **UK MHRA E-Cigarette & Vape Compliance Checker**: https://apify.com/alexsyin/uk-mhra-ecig-compliance
 - **EU Flavourings (FIP) & Cosmetics / Fragrance (CosIng) Compliance Checker**: https://apify.com/alexsyin/eu-flavour-cosing-compliance
 
-> Need an Apify account? Sign up here to get free monthly credits and your API token: `https://apify.com/?fpr=YOUR_AFFILIATE_CODE` *(replace with your affiliate code before publishing)*
+> Need an Apify account? Sign up here to get free monthly credits and your API token: https://console.apify.com/sign-up
 
 ---
 
@@ -31,7 +33,7 @@ Batch-screens CAS numbers, flavouring substances, fragrance allergens, and INCI 
 ## Prerequisites
 
 1. **Node.js 18+**
-2. An **Apify API Token** (`APIFY_TOKEN`) from [Apify Console → Integrations](https://console.apify.com/account/integrations) (new accounts: `https://apify.com/?fpr=YOUR_AFFILIATE_CODE`).
+2. An **Apify API Token** (`APIFY_TOKEN`) from [Apify Console → Integrations](https://console.apify.com/account/integrations) (new accounts: https://console.apify.com/sign-up).
 
 ---
 
